@@ -13,7 +13,7 @@ Then go to this website:https://www.cnblogs.com/arxive/p/11778731.html
 
 Next you maybe got this:
 
-![Uploading 20200924165923301.png…]()
+![001618](https://user-images.githubusercontent.com/75357598/113176932-9435fc80-927f-11eb-864a-25578ecb9647.png)
 
 Then copy this file to the expected path.
 
