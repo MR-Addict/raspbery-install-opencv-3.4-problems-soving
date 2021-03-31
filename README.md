@@ -1,0 +1,1 @@
+# raspbery-install-opencv-3.4-problems-soving
