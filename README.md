@@ -17,7 +17,7 @@ Next you maybe got this:
 
 Then copy this file to the expected path.
 
-![000952](https://user-images.githubusercontent.com/75357598/113176021-a499a780-927e-11eb-9d03-be8f11ee12fe.png)
+![001805](https://user-images.githubusercontent.com/75357598/113177220-df500f80-927f-11eb-9bad-7d0cb503e4f4.png)
 
 Last you maybe come to this:
 
