@@ -5,7 +5,7 @@ https://www.jianshu.com/p/56929416b4a1
 
 To my experience, only the make part got problems when you do the brfore smooothly.
 
-So, the fist problem is lacking file like this:
+So, the first problem is lacking file like this:
 
 ![download](https://user-images.githubusercontent.com/75357598/113174888-6c459980-927d-11eb-9760-90bb69664948.gif)
 
